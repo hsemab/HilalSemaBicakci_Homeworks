@@ -14,7 +14,8 @@ Components
 |
 --List
 ## Open to Link
-[!(/assets/app.png)](https://suspicious-wescoff-d487c2.netlify.app)
+![image](/assets/app.png)(https://suspicious-wescoff-d487c2.netlify.app)
+
 ## In the project directory, you can run:
 
 ### `yarn start`
