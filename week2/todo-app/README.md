@@ -13,7 +13,8 @@ Components
 --Alert
 |
 --List
-
+## Open to Link
+[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://suspicious-wescoff-d487c2.netlify.app)
 ## In the project directory, you can run:
 
 ### `yarn start`
