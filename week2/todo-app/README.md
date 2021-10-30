@@ -14,7 +14,7 @@ Components
 |
 --List
 ## Open to Link
-[![imggg](./assets/app.png)](https://suspicious-wescoff-d487c2.netlify.app)
+[![imggg](https://suspicious-wescoff-d487c2.netlify.app)](./assets/app.png)
 
 ## In the project directory, you can run:
 
