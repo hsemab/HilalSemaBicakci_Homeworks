@@ -17,7 +17,7 @@ Components
 
 You can access with this [link](https://suspicious-wescoff-d487c2.netlify.app)
 
-![img](./assets/app.png)
+![img](./src/assets/app.png)
 
 ## In the project directory, you can run:
 
