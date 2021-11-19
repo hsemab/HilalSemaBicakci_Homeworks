@@ -1,0 +1,15 @@
+C:\Users\hsbw9\source\repos\MyFruitProject\MyFruitProject\bin\Debug\netcoreapp3.1\MyFruitProject.exe
+C:\Users\hsbw9\source\repos\MyFruitProject\MyFruitProject\bin\Debug\netcoreapp3.1\MyFruitProject.deps.json
+C:\Users\hsbw9\source\repos\MyFruitProject\MyFruitProject\bin\Debug\netcoreapp3.1\MyFruitProject.runtimeconfig.json
+C:\Users\hsbw9\source\repos\MyFruitProject\MyFruitProject\bin\Debug\netcoreapp3.1\MyFruitProject.runtimeconfig.dev.json
+C:\Users\hsbw9\source\repos\MyFruitProject\MyFruitProject\bin\Debug\netcoreapp3.1\MyFruitProject.dll
+C:\Users\hsbw9\source\repos\MyFruitProject\MyFruitProject\bin\Debug\netcoreapp3.1\MyFruitProject.pdb
+C:\Users\hsbw9\source\repos\MyFruitProject\MyFruitProject\obj\Debug\netcoreapp3.1\MyFruitProject.csproj.AssemblyReference.cache
+C:\Users\hsbw9\source\repos\MyFruitProject\MyFruitProject\obj\Debug\netcoreapp3.1\MyFruitProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hsbw9\source\repos\MyFruitProject\MyFruitProject\obj\Debug\netcoreapp3.1\MyFruitProject.AssemblyInfoInputs.cache
+C:\Users\hsbw9\source\repos\MyFruitProject\MyFruitProject\obj\Debug\netcoreapp3.1\MyFruitProject.AssemblyInfo.cs
+C:\Users\hsbw9\source\repos\MyFruitProject\MyFruitProject\obj\Debug\netcoreapp3.1\MyFruitProject.csproj.CoreCompileInputs.cache
+C:\Users\hsbw9\source\repos\MyFruitProject\MyFruitProject\obj\Debug\netcoreapp3.1\MyFruitProject.dll
+C:\Users\hsbw9\source\repos\MyFruitProject\MyFruitProject\obj\Debug\netcoreapp3.1\MyFruitProject.pdb
+C:\Users\hsbw9\source\repos\MyFruitProject\MyFruitProject\obj\Debug\netcoreapp3.1\MyFruitProject.genruntimeconfig.cache
+C:\Users\hsbw9\source\repos\MyFruitProject\MyFruitProject\bin\Debug\netcoreapp3.1\values.csv
